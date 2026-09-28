@@ -1,1 +1,1 @@
-file:///C:/Users/Lopes/Downloads/Vegeta!.gif
+C:/Users/Lopes/Downloads/Vegeta!.gif
