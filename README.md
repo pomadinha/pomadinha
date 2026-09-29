@@ -13,8 +13,8 @@
         </a>
       </p>
       <p>
-        <a href="https://github.com/pomadinha" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        <a href="https://open.spotify.com/user/9dub04ffl58u24e7mzqn2vsrs" target="_blank">
+          <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
         </a>
         <a href="https://judge.beecrowd.com/pt/profile/884569" target="_blank">
           <img src="https://img.shields.io/badge/Beecrowd-662483?style=for-the-badge&logo=beecrowd&logoColor=white" alt="Beecrowd">
