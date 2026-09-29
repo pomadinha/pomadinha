@@ -1,23 +1,25 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h2>cabeludo</h2>
+      <h2>caba dos programa</h2>
       <p><i>é verdade<br> sem mentira<br> certo muito<br> verdadeiro</i></p>
       <br>
       <p>
         <a href="https://www.linkedin.com/in/srkaiolopes1993/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="35" alt="LinkedIn">
         </a>
+        &nbsp;&nbsp;
         <a href="https://www.reddit.com/user/kurimatt/" target="_blank">
-          <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+          <img src="https://cdn.simpleicons.org/reddit/FF4500" width="35" alt="Reddit">
         </a>
       </p>
       <p>
-        <a href="https://open.spotify.com/user/9dub04ffl58u24e7mzqn2vsrs" target="_blank">
-          <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+        <a href="https://open.spotify.com/user/SEU_USUARIO_SPOTIFY" target="_blank">
+          <img src="https://cdn.simpleicons.org/spotify/1DB954" width="35" alt="Spotify">
         </a>
+        &nbsp;&nbsp;
         <a href="https://judge.beecrowd.com/pt/profile/884569" target="_blank">
-          <img src="https://img.shields.io/badge/Beecrowd-662483?style=for-the-badge&logo=beecrowd&logoColor=white" alt="Beecrowd">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-edX_Mimd5Zzz_JuCQErngK0_Gqyyl8PfMcuLgzRe7JX50DEwhpSnaD0&s=10" width="35" alt="Beecrowd">
         </a>
       </p>
     </td>
