@@ -10,7 +10,7 @@
         <a href="https://www.reddit.com/user/kurimatt/" target="_blank" style="text-decoration: none;"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="35" alt="Reddit"></a>
       </p>
       <p>
-        <a href="https://open.spotify.com/user/SEU_USUARIO_SPOTIFY" target="_blank" style="text-decoration: none;"><img src="https://cdn.simpleicons.org/spotify/1DB954" width="35" alt="Spotify"></a>
+        <a href="https://open.spotify.com/user/9dub04ffl58u24e7mzqn2vsrs?si=89921fd6eb8b4471" target="_blank" style="text-decoration: none;"><img src="https://cdn.simpleicons.org/spotify/1DB954" width="35" alt="Spotify"></a>
         &nbsp;&nbsp;
         <a href="https://judge.beecrowd.com/pt/profile/884569" target="_blank" style="text-decoration: none;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-edX_Mimd5Zzz_JuCQErngK0_Gqyyl8PfMcuLgzRe7JX50DEwhpSnaD0&s=10" width="35" alt="Beecrowd"></a>
       </p>
