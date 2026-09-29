@@ -22,7 +22,7 @@
       </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src=https://i.pinimg.com/originals/c7/cf/9d/c7cf9ddb53a01e00c62437b2d92779e3.gif" width="350" alt="GIF Vegeta">
+      <img src="https://i.pinimg.com/originals/c7/cf/9d/c7cf9ddb53a01e00c62437b2d92779e3.gif" width="350" alt="GIF Vegeta">
     </td>
   </tr>
 </table>
